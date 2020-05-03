@@ -1,0 +1,75 @@
+@media only screen and (min-width: 860px) {
+    body {
+        margin: 1em auto;
+    }
+}
+
+html {
+    background: black;
+}
+
+body {
+    font-family: sans-serif;
+    max-width: 800px;
+    color: white;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+}
+
+ul {
+    list-style: none;
+}
+
+header ul {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    color: grey;
+}
+
+.it {
+    font-style: italic;
+}
+
+.bd {
+    font-weight: bold;
+}
+
+.red {
+    color: lightcoral;
+}
+
+.em {
+    color: lightslategray;
+}
+
+.un {
+    text-decoration: underline;
+}
+
+.section {
+    background: #111;
+    border-radius: 1em;
+    padding: 1em;
+    margin-bottom: 1em;
+}
+
+header img {
+    max-width: 60%;
+    margin: 0 20% 0 20%;
+}
+
+div img {
+    width: 80%;
+    margin: 0 10% 0 10%;
+    border-radius: 1em;
+}
